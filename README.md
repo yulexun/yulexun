@@ -1,3 +1,3 @@
-### [PRPR.ONE](https://prpr.one)
+# [PRPR.ONE](https://prpr.one)
 
-#### [Blog](https://blog.prpr.one)
+### [Blog](https://blog.prpr.one)
